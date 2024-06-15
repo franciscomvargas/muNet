@@ -1,0 +1,8 @@
+flax
+ml_collections
+tensorflow_addons
+matplotlib
+pandas
+tensorflow
+tensorflow_datasets
+keras<3.0.0
